@@ -50,7 +50,7 @@ button {
         "footer footer";
     grid-template-columns: 5fr 4fr;
     gap: 0;
-    width: 420px;
+    width: 421px;
     margin: 15px auto;
     border-radius: 8px;
     /*Prevents the grid items content from spilling outside 
